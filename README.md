@@ -16,4 +16,4 @@
 
 ### Leetcode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/5?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Hirebbec?theme=dark)
