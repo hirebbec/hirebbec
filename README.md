@@ -1,4 +1,5 @@
-### -__- Trying Java... 
+<h1> Student from Kazan trying to become a java developer
+<img src="./assets/coolStoryBob" height="32"> </h1>
 
 ### Educational profiles:
 
