@@ -1,5 +1,5 @@
 <h1> Student from Kazan trying to become a java developer
-<img src="./assets/coolStoryBob" height="32"> </h1>
+<img src="https://github.com/hirebbec/hirebbec/blob/main/assets/coolStoryBob.jpeg" height="32"> </h1>
 
 ### Educational profiles:
 
