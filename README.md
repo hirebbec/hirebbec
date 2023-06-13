@@ -21,17 +21,16 @@
 
 ### Languages and Tools:
 
+|[![Github stats](https://github-readme-stats.vercel.app/api?username=hirebbec&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/hirebbec?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirebbec&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/hirebbec?tab=repositories) |
+|---|---|
+____
+
 ![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
 ![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
 ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-1E7775?style=for-the-badge&logo=Spring)
 ![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
 ![Gradle](https://img.shields.io/badge/-Gradle-1E7775?style=for-the-badge&logo=Gradle&logoColor=6296CC)
-
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=hirebbec&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/hirebbec?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirebbec&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/hirebbec?tab=repositories) |
-|---|---|
-____
-
 
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
