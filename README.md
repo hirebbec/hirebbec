@@ -1,4 +1,4 @@
-<h1> Student from Kazan trying to become a C++ developer
+<h1> Developer from Kazan trying to become a good developer
 <img src="https://github.com/hirebbec/hirebbec/blob/main/assets/coolStoryBob.jpeg" height="32"> </h1>
 
 ### Educational profiles:
