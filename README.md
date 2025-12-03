@@ -1,8 +1,8 @@
 <h1> Developer from Kazan
 <img src="https://github.com/hirebbec/hirebbec/blob/main/assets/coolStoryBob.jpeg" height="32"> </h1
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hirebbec&theme=dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hirebbec&theme=dark) |
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hirebbec&theme=dark) 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hirebbec&theme=dark)
 
 
 ### Contact info:
