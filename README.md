@@ -1,8 +1,8 @@
 <h1> Developer from Kazan
 <img src="https://github.com/hirebbec/hirebbec/blob/main/assets/coolStoryBob.jpeg" height="32"> </h1
 
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=hirebbec&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=dark)](https://github.com/hirebbec?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirebbec&layout=compact&hide_border=true&hide=vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/hirebbec?tab=repositories) |
-|---|---|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hirebbec&theme=dark) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hirebbec&theme=dark) |
+
 
 ### Contact info:
   [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reek867@gmail.com)
